@@ -225,9 +225,10 @@ citizen@govassist.local
 
 # Contributors
 
-* Your Name
-* Team Members
-
+* I
+* ME
+* self
+* myself
 ---
 
 # License
