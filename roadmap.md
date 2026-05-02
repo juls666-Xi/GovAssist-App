@@ -6,11 +6,11 @@ Use this checklist as a step-by-step guide to build GovAssist from planning to d
 
 # ✅ PHASE 1 — Project Setup
 
-* [ ] Create GitHub repository
-* [ ] Initialize Next.js project with TypeScript
-* [ ] Install Tailwind CSS
-* [ ] Install shadcn/ui
-* [ ] Setup folder structure
+* [/] Create GitHub repository
+* [/] Initialize Next.js project with TypeScript
+* [/] Install Tailwind CSS
+* [/] Install shadcn/ui
+* [/] Setup folder structure
 * [ ] Setup ESLint + Prettier
 * [ ] Create `.env.local`
 * [ ] Connect project to Vercel
